@@ -1,3 +1,4 @@
 # Towards-Open-Set-Identity-Preserving-Face-Synthesis
 The realization of the paper
-There is still some problem with the code. The result of the training is very bad.
+The code is not finished yet, it's just my personal attempt!
+There are a lot of problems need to be solved
